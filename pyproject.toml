@@ -5,7 +5,8 @@ description = "Airfoil aerodynamics project for learning statistical and machine
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "pandas",
-    "numpy"
+    "numpy",
+    "matplotlib"
 ]
 
 [build-system]
